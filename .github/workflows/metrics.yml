@@ -11,7 +11,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: general.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           repositories_skipped: nand2tetris
