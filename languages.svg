@@ -217,14 +217,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="210.8461088118488" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="210.8461088118488" y="0" width="77.33021433404888" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="288.1763231458977" y="0" width="46.74251275435853" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="334.9188359002562" y="0" width="42.407982340313914" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="377.32681824057016" y="0" width="24.97076571770353" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="402.29758395827366" y="0" width="11.464704704603228" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="413.7622886628769" y="0" width="9.179691360997133" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="422.941980023874" y="0" width="37.05801997612597" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="206.16908123968457" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="206.16908123968457" y="0" width="75.61486114759543" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="281.78394238728" y="0" width="50.27463186641621" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="332.0585742536962" y="0" width="44.16899202521796" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="376.22756627891414" y="0" width="24.41685955164774" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="400.6444258305619" y="0" width="11.210392494089541" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="411.85481832465143" y="0" width="9.085502153538096" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="420.94032047818956" y="0" width="39.05967952181046" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -237,7 +237,7 @@
                             </div>
                             <small>
                                 <div>180 kB</div>
-                                <div>45.84%</div>
+                                <div>44.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -248,8 +248,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>40 kB</div>
-                                <div>10.16%</div>
+                                <div>44.1 kB</div>
+                                <div>10.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -261,7 +261,7 @@
                             </div>
                             <small>
                                 <div>21.4 kB</div>
-                                <div>5.43%</div>
+                                <div>5.31%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -272,8 +272,8 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>7.87 kB</div>
-                                <div>2%</div>
+                                <div>7.97 kB</div>
+                                <div>1.98%</div>
                             </small>
                         </div>
                     </section>
@@ -287,7 +287,7 @@
                             </div>
                             <small>
                                 <div>66.3 kB</div>
-                                <div>16.81%</div>
+                                <div>16.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -298,8 +298,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>36.3 kB</div>
-                                <div>9.22%</div>
+                                <div>38.7 kB</div>
+                                <div>9.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -311,7 +311,7 @@
                             </div>
                             <small>
                                 <div>9.83 kB</div>
-                                <div>2.49%</div>
+                                <div>2.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -322,8 +322,8 @@
                                 Other
                             </div>
                             <small>
-                                <div>31.7 kB</div>
-                                <div>8.06%</div>
+                                <div>34.2 kB</div>
+                                <div>8.49%</div>
                             </small>
                         </div>
                     </section>
@@ -333,7 +333,7 @@
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 8 days</small>
+                  over last 9 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
