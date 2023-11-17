@@ -331,15 +331,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 14.1kb of code in 36 edited files across 14 commits over last 13 days</small>
+                <small>estimation from 13.6kb of code in 33 edited files across 10 commits over last 9 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.7744425385935" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="382.7744425385935" y="0" width="68.18467695826186" height="8" fill="#d0b68c"/>
-                    <rect mask="url(#languages-bar)" x="450.95911949685535" y="0" width="9.040880503144654" height="8" fill="#74283c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="397.8147515412612" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="397.8147515412612" y="0" width="52.78912575206121" height="8" fill="#d0b68c"/>
+                    <rect mask="url(#languages-bar)" x="450.60387729332245" y="0" width="9.396122706677561" height="8" fill="#74283c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -352,7 +352,7 @@
                             </div>
                             <small>
                                 <div>11.6 kB</div>
-                                <div>83.21%</div>
+                                <div>86.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -364,7 +364,7 @@
                             </div>
                             <small>
                                 <div>275 bytes</div>
-                                <div>1.97%</div>
+                                <div>2.04%</div>
                             </small>
                         </div>
                     </section>
@@ -377,8 +377,8 @@
                                 Coq
                             </div>
                             <small>
-                                <div>2.07 kB</div>
-                                <div>14.82%</div>
+                                <div>1.54 kB</div>
+                                <div>11.48%</div>
                             </small>
                         </div>
                     </section>
