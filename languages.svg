@@ -331,17 +331,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 113kb of code in 78 edited files across 81 commits over last 14 days</small>
+                <small>estimation from 89.4kb of code in 57 edited files across 62 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.2936835865266" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="249.2936835865266" y="0" width="200.47034674358315" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="449.7640303301098" y="0" width="4.419985312723959" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="454.18401564283374" y="0" width="3.288534192155579" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="457.4725498349893" y="0" width="2.5274501650106616" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="316.5193556359388" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="316.5193556359388" y="0" width="130.48439641420836" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="447.0037520501471" y="0" width="5.611898717113393" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="452.6156507672605" y="0" width="4.175335325439799" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="456.7909860927003" y="0" width="3.209013907299647" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -354,7 +354,7 @@
                             </div>
                             <small>
                                 <div>61.2 kB</div>
-                                <div>54.19%</div>
+                                <div>68.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -366,7 +366,7 @@
                             </div>
                             <small>
                                 <div>1.09 kB</div>
-                                <div>0.96%</div>
+                                <div>1.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -378,7 +378,7 @@
                             </div>
                             <small>
                                 <div>621 bytes</div>
-                                <div>0.55%</div>
+                                <div>0.7%</div>
                             </small>
                         </div>
                     </section>
@@ -391,8 +391,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>49.2 kB</div>
-                                <div>43.58%</div>
+                                <div>25.2 kB</div>
+                                <div>28.37%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -404,7 +404,7 @@
                             </div>
                             <small>
                                 <div>808 bytes</div>
-                                <div>0.71%</div>
+                                <div>0.91%</div>
                             </small>
                         </div>
                     </section>
