@@ -331,14 +331,13 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.01mb of code in 90 edited files across 13 commits over last 14 days</small>
+                <small>estimation from 266kb of code in 23 edited files across 4 commits over last 10 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.59471509731753" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.59471509731753" y="0" width="1.4052849026824645" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -350,24 +349,12 @@
                                 Python
                             </div>
                             <small>
-                                <div>313 kB</div>
-                                <div>99.69%</div>
+                                <div>18.9 kB</div>
+                                <div>100%</div>
                             </small>
                         </div>
                     </section>
                     <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Jupyter Notebook
-                            </div>
-                            <small>
-                                <div>962 bytes</div>
-                                <div>0.31%</div>
-                            </small>
-                        </div>
                     </section>
                 </div>
             </section>
